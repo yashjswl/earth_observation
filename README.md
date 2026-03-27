@@ -18,6 +18,3 @@ Please ensure the required packages are installed on your environment through pi
 
 For the visualisation using Google Earth Engine, Please follow the instructions in the prompt (if appears) to get the authentication key and enter it in the notebook.
 Google Earth Engine is free for academic and research use.
-
-### Declaration on Generative AI
-The Gemini 3.1 Pro model from Google was used for generation of parts of the code in this submission which were then proofread, reviewed in detail and verified. 
